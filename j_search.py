@@ -6,4 +6,4 @@ print(sys.argv)
 for i in sys.argv:
     print(i)
 
-print("分支冲突")
+print("Tom change")
