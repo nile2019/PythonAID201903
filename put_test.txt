@@ -1,3 +1,7 @@
 put_test only
 
+<<<<<<< HEAD
 change by Tom
+=======
+change by Jame
+>>>>>>> Jame_dev
