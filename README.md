@@ -1,2 +1,2 @@
 # AID1903
-仓库信息
+学习git和github
